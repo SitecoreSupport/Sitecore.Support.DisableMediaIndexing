@@ -5,4 +5,4 @@ Disable media files content extraction during indexing
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.DisableMediaIndexing/blob/master/LICENSE).  
 
 ## Download  
-Downloads are available via [GitHub Releases](https://github.com/sitecoresupport/Sitecore.Support.DisableMediaIndexing/releases).  
+Check source files to locate Sitecore.Support.DisableMediaIndexing.config file corresponding to your Sitecore version and search provider. 
